@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import MainContainer from './MainContainer';
-import axios from 'axios';
 
 class NotFound extends Component {
 
